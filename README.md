@@ -1,2 +1,2 @@
 # spring-boot-zk-autoconfiguration
-Auto Enable ZK in Spring Boot
+Auto Enable ZK for Spring Boot Applications
